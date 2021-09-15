@@ -1,0 +1,21 @@
+html, body, #main {
+    height: 100%;
+}
+div.score-container {
+    background: #009688;
+    border: medium solid #009688;
+    border-radius: 100px;
+    color: #f5f5f5;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.try {
+    background: #fdfde6;
+    border: thin solid #5a6268;
+    font-family: Dialog, serif;
+    text-align: center;
+}
